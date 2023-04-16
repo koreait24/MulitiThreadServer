@@ -1,0 +1,13 @@
+﻿  App.cpp
+  ChatServer.cpp
+  ChatUser.cpp
+  CsvParser.cpp
+  Thread.cpp
+  코드를 생성하고 있습니다...
+NetworkLib.lib(LogSystem.obj) : warning LNK4099: '' PDB를 'NetworkLib.lib(LogSystem.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+NetworkLib.lib(Network.obj) : warning LNK4099: '' PDB를 'NetworkLib.lib(Network.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+NetworkLib.lib(NetworkUser.obj) : warning LNK4099: '' PDB를 'NetworkLib.lib(NetworkUser.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+NetworkLib.lib(MySqlEngine.obj) : warning LNK4099: '' PDB를 'NetworkLib.lib(MySqlEngine.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+NetworkLib.lib(Thread.obj) : warning LNK4099: '' PDB를 'NetworkLib.lib(Thread.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+     D:\JGS\Server\Server\x64\Debug\Server.lib 라이브러리 및 D:\JGS\Server\Server\x64\Debug\Server.exp 개체를 생성하고 있습니다.
+  Server.vcxproj -> D:\JGS\Server\Server\x64\Debug\Server.exe
